@@ -1,0 +1,2 @@
+# Requires: post-stasis
+# (Not available on PyPI)
